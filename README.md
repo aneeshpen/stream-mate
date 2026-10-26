@@ -15,7 +15,6 @@ Watch YouTube videos with friends using synchronized playback, role-based contro
 ## Live Deployment
 
 - **Production URL** : *https://stream-mates-eta.vercel.app*
-- **Repository** : *[Stream Mates](https://github.com/Shogun585/Stream-Mates)*
 
 ---
 
